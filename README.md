@@ -3,7 +3,7 @@
 Test function calls.
 
 ## Getting Started
-This module is not on npm yet but you can download it here on github.
+Install the module with: `npm install bingo`
 
 ## Examples
 
