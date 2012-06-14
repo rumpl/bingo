@@ -14,6 +14,7 @@ exports.bingo = {
   },
   'Works with objects created with new': function(test) {
     "use strict";
+
     var Test = function() {};
     Test.prototype.test = function() {};
     Test.prototype.test2 = function() {};
@@ -35,6 +36,7 @@ exports.bingo = {
   },
   'Works with other objects': function(test) {
     "use strict";
+
     var t = { 
       a: function() {
         console.log('a');
