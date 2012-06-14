@@ -1,0 +1,35 @@
+{
+  "name": "bingo",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rumpl/bingo",
+  "author": {
+    "name": "Djorje Lukic",
+    "email": "lukic.djordje@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rumpl/bingo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rumpl/bingo/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rumpl/bingo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/bingo",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.3.9"
+  },
+  "keywords": []
+}
