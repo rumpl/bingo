@@ -28,6 +28,7 @@ console.log(someObject.timesExecuted()); // 1
 
 ## Contributing
 Yes yes, please, contribute. What else do you want to know about an execution of a function ?
+
 Lint and test your code using [grunt](https://github.com/cowboy/grunt).
 
 ## Release History
@@ -36,4 +37,5 @@ Lint and test your code using [grunt](https://github.com/cowboy/grunt).
 ## License
 
 Copyright (c) 2012 Djorje Lukic
+
 Licensed under the [MIT license](http://rumpl.mit-license.org/).
