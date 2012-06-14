@@ -2,6 +2,7 @@
   "name": "bingo",
   "description": "Test function calls.",
   "version": "0.2.0",
+  "keywords": ["test", "unit test", "tdd"],
   "homepage": "https://github.com/rumpl/bingo",
   "author": {
     "name": "Djorje Lukic",
