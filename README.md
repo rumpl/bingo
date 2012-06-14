@@ -32,8 +32,8 @@ Yes yes, please, contribute. What else do you want to know about an execution of
 Lint and test your code using [grunt](https://github.com/cowboy/grunt).
 
 ## Release History
-- 0.2.0 (2012-09-14) Make bingo work in the browser
-- 0.1.0 (2012-09-14) First version
+- 0.2.0 (2012-06-14) Make bingo work in the browser
+- 0.1.0 (2012-06-14) First version
 
 ## License
 
