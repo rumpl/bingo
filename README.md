@@ -15,15 +15,15 @@ var bingo = require('bingo');
 var someObject = bingo(someObject);
 
 // Get info about the function.
-console.log(someObject.didExecute() === false); // true
-console.log(someObject.timesExecuted()); // 0
+console.log(someObject.someFunction.didExecute() === false); // true
+console.log(someObject.someFunction.timesExecuted()); // 0
 
 // Call some function.
 someObject.someFunction();
 
 // Get info about the execution of the function.
-console.log(someObject.didExecute() === true); // true
-console.log(someObject.timesExecuted()); // 1
+console.log(someObject.someFunction.didExecute() === true); // true
+console.log(someObject.someFunction.timesExecuted()); // 1
 ```
 
 ## Contributing
