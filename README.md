@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rumpl/bingo.png)](http://travis-ci.org/rumpl/bingo)
 # bingo
 
 Test function calls.
